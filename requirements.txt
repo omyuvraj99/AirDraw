@@ -1,0 +1,8 @@
+# Webcam display and image drawing
+opencv-python>=4.8
+
+# Hand landmark detection
+mediapipe>=0.10
+
+# Image-array handling
+numpy>=1.24
