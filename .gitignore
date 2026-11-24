@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Automatically downloaded MediaPipe model
+hand_landmarker.task
+
+# Drawings created by the program
+airdraw_*.png
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
