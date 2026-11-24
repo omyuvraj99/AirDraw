@@ -1,8 +1,8 @@
-# Webcam display and image drawing
+# Webcam window, drawing, image processing, and PNG saving
 opencv-python>=4.8
 
-# Hand landmark detection
+# Hand landmark detection and gesture tracking
 mediapipe>=0.10
 
-# Image-array handling
+# Camera-frame and canvas array operations
 numpy>=1.24
